@@ -1,4 +1,8 @@
-
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
 # Reproducible Research Course- Project 1 (activity.csv)
 Author       : Ralston Fonseca 
 Date         : 04 Sep 2018
